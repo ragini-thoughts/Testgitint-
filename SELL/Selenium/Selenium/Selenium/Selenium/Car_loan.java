@@ -7,5 +7,6 @@ public class Car_loan {
 	 public void car_loan()  
 	 {  
 	     System.out.println("Car Loan");  
+	     System.out.println("Vehicle Loan");  
 }
 }
